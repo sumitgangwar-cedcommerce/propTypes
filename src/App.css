@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: black !important;
+}
+div{
+  margin: 1vw;
+  border:solid;
+  padding: 4vw;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
